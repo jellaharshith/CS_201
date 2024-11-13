@@ -1,0 +1,9 @@
+1:Hello World
+2:C++ Programming
+3:File I/O Operations
+4:123
+5:456
+6:789
+7:apple 3
+8:banana 2
+9:cherry 1
